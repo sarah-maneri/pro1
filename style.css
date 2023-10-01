@@ -1,0 +1,27 @@
+body{
+  background-color: pink;
+}
+h1{
+  color: blueviolet;
+  background-color: plum;
+}
+.submit{
+  background-color: hotpink;
+  border-radius: 80%;
+}
+.reset{
+  background-color: gold;
+  border-radius: 25%;
+}
+.name{
+  background-color: lightblue;
+  border-radius: 1%;
+}
+.date{
+  background-color: lightcoral;
+  border-radius: 40%;
+}
+.pass{
+  background-color: lightsalmon;
+  border-radius: 33%;
+}
